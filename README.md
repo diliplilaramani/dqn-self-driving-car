@@ -22,4 +22,9 @@ Step 2: source activate dqn
 
 Step 3: python3 map.py
 
-### Load already trained model - click load button on window
+Step 4: Click load button to use already trained model.
+
+## Rewards Graph - Explore vs Exploitation
+
+![alt text](https://github.com/diliplilaramani/dqn-self-driving-car/blob/master/demo/figure_1.png)
+
